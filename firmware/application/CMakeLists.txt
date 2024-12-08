@@ -320,6 +320,7 @@ set(CPPSRC
 	apps/ui_view_wav.cpp
 	apps/ui_weatherstation.cpp
 	apps/ui_whipcalc.cpp
+	apps/ui_newapp.cpp
 	protocols/aprs.cpp
 	protocols/ax25.cpp
 	protocols/bht.cpp
